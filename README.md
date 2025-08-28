@@ -1,5 +1,23 @@
 # Model Analysis
 
+If you use this code for your work, please cite the paper:
+
+- Casey, Beatrice, Joanna Santos, and Mehdi Mirakhorli. "A large-scale exploit instrumentation study of AI/ML supply chain attacks in hugging face models." arXiv preprint arXiv:2410.04490 (2024).
+
+
+```
+@misc{casey2024largescaleexploitinstrumentationstudy,
+      title={A Large-Scale Exploit Instrumentation Study of AI/ML Supply Chain Attacks in Hugging Face Models}, 
+      author={Beatrice Casey and Joanna C. S. Santos and Mehdi Mirakhorli},
+      year={2024},
+      eprint={2410.04490},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2410.04490}, 
+}
+
+```
+
 ## Pre-requisites
 - Python 3.11+
 - Pip
